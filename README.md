@@ -13,7 +13,7 @@
 ##
 
 ### 📜 Descrição 
-<p>Máquina de trocos básica, o usuário irá digitar o nome de um produto qualquer, o preço do produto e qual valor que ele tem disponivel em sua carteira.</p>
+<p>Máquina de trocos básica, o usuário irá digitar o nome de um produto qualquer, o preço do produto e qual valor que ele tem disponivel em sua carteira para pagar tal produto.</p>
 
 ##
 
