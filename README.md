@@ -1,4 +1,4 @@
-### 🎃 Máquina de trocos
+### 🤑 Máquina de trocos
 
 <div style="display: inline_block">
 
