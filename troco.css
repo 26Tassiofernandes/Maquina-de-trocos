@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+header {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+section {
+    background-color: wheat;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px black;
+    text-align: center;
+    font-family: 'PT Sans Narrow';
+
+
+
+}
+
+footer {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'PT Sans Narrow';
+    
+
+}
+
+#botao1, #botao2, #botao3 {
+    width: 130px;
+    border-radius: 10px;
+    border-style: hidden;
+
+}
+
+#result, #reseta {
+    border-radius: 10px;
+    padding: 5px;
+    border-style: hidden;
+}
