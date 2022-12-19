@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
 
 body {
-    background-color: burlywood;
+    background-color: #454D6B;
 }
 
 header {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
 
 }
 
 
 section {
-    background-color: wheat;
+    background-color: #353B50;
     width: 300px;
     margin: auto;
     padding: 10px;
@@ -20,8 +21,7 @@ section {
     box-shadow: 1px 1px 3px black;
     text-align: center;
     font-family: 'PT Sans Narrow';
-
-
+    color: white;
 
 }
 
@@ -29,6 +29,7 @@ footer {
     text-align: center;
     margin-top: 10px;
     font-family: 'PT Sans Narrow';
+    color: white;
     
 
 }
@@ -37,6 +38,7 @@ footer {
     width: 130px;
     border-radius: 10px;
     border-style: hidden;
+    background-color:#454D6B;
 
 }
 
@@ -44,4 +46,18 @@ footer {
     border-radius: 10px;
     padding: 5px;
     border-style: hidden;
+    
+
+    
 }
+
+#result:hover, #reseta:hover {
+
+    transform: scale(1.04);
+
+}
+
+#reseta {
+    background-color: #A13854;
+}
+
